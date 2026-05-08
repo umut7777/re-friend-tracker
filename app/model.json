@@ -1,6 +1,6 @@
 {
     "application": {
-        "title": "Requirements Engineering Friend Tracker (FS2026)",
+        "title": "Umut RE2026 Friend Tracker",
         "formList": [
             {
                 "id": "FriendForm",
